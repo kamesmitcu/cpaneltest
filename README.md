@@ -18,3 +18,13 @@ FOR INSTALL THIS LICENSE SEND IP AND USERNAME AND PASSWORD AND SSH PORT IN TELEG
 https://t.me/whmcpanelnulled
 
 https://youtube.com/@whmcpanelnull
+_----------_
+HOW TO USE
+
+
+git clone https://github.com/whmcpanelnull/cpanelnull.github.io.git
+
+
+chmod +x LICENSE_CPANEL_FREE_ACTIVE TO 06-01-2024.sh
+
+./LICENSE_CPANEL_FREE_ACTIVE TO 06-01-2024.sh
